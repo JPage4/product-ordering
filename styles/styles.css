@@ -1,0 +1,18 @@
+.title {
+    border-bottom: 2px solid black;
+}
+.description {
+    letter-spacing: 5px;
+}
+.price {
+    font-size: 40px;
+}
+.quantity {
+    font-style: italic;
+}
+.image {
+    width: 200px;
+}
+.reviewList {
+    list-style: none;
+}
